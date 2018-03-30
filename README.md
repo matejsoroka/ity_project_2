@@ -1,4 +1,4 @@
-# Second project from curse Typography and Publishing
+# Second project from curse Typography and Publishing	13,2/15
 
 ## Introduction
 
